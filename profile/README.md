@@ -51,6 +51,7 @@
 ---
 
 Please considere sponsoring us
+
 [![Sponsor us :)](https://raw.githubusercontent.com/better-invite/.github/refs/heads/main/profile/sponsor-us.svg)](https://www.patreon.com/cw/betterinvite/membership)
 
 --- 
