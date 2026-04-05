@@ -48,6 +48,11 @@
 - 🔒 Built with security in mind to prevent unauthorized invite usage.
 - 🎉 Show the invitee a welcome page or role upgrade page after signing up or upgrading their role.
 
+---
+
+Please considere sponsoring us
+[![Sponsor us :)](https://raw.githubusercontent.com/better-invite/.github/refs/heads/main/profile/sponsor-us.svg)](https://www.patreon.com/cw/betterinvite/membership)
+
 --- 
 
 > This project is not associated with Better Auth
