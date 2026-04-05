@@ -54,7 +54,7 @@
   <p>Please consider sponsoring us</p>
   
   <a href="https://patreon.better-invite.com/membership">
-    <img src="https://raw.githubusercontent.com/better-invite/.github/refs/heads/main/profile/sponsor-us.svg" alt="Sponsor us :)" style="border-radius: 20px;" />
+    <img src="https://raw.githubusercontent.com/better-invite/.github/refs/heads/main/profile/sponsor-us.svg" alt="Sponsor us :)" />
   </a>
 </div>
 
