@@ -50,9 +50,13 @@
 
 ---
 
-Please considere sponsoring us
-
-[![Sponsor us :)](https://raw.githubusercontent.com/better-invite/.github/refs/heads/main/profile/sponsor-us.svg)](https://www.patreon.com/cw/betterinvite/membership)
+<div align="center">
+  <p>Please consider sponsoring us</p>
+  
+  <a href="https://www.patreon.com/cw/betterinvite/membership">
+    <img src="https://raw.githubusercontent.com/better-invite/.github/refs/heads/main/profile/sponsor-us.svg" alt="Sponsor us :)" />
+  </a>
+</div>
 
 --- 
 
